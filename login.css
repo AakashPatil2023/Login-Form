@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+div{
+    width: 330px;
+    height: 290px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 170px 180px 130px 550px;
+    padding: 20px 20px 60px 20px;
+}
+.btn{
+    background-color: hsl(46, 100%, 50%);
+    margin: 0px 0px 0px 45px;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color:red;
+}
+.input{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    margin: 10px 10px 10px 40px;
+}
+p{
+    margin: 10px 0px 10px 65px;
+}
